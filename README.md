@@ -9,7 +9,7 @@ Sebuah **Micro Project Data Mining** yang memprediksi kategori nilai akademik si
 - 📈 **Evaluasi**: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 
 ## 🛠️ Tech Stack
-`Python 3.13` | `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn` | `Jupyter/VS Code`
+`Python 3.13` | `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn` | `Antigravity`
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
