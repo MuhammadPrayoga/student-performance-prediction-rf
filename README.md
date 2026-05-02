@@ -36,4 +36,3 @@ Dari analisis ini, terbukti bahwa performa siswa tidak terlalu bergantung pada f
 **Rekomendasi:** Institusi pendidikan dan orang tua disarankan untuk lebih berfokus pada pemantauan tingkat kehadiran (mengurangi absen) serta mempertahankan nilai GPA dasar siswa untuk mencegah penurunan ke *Grade Class* yang lebih buruk.
 
 ---
-*Proyek ini dikembangkan oleh Muhammad Prayoga Putra Mahardhika sebagai bagian dari portofolio Data Science dan Machine Learning.*
